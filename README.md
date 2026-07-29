@@ -19,4 +19,4 @@ This repository documents my journey of learning Java through hands-on programmi
 
 This repository will be updated as I continue learning and experimenting with Java.
 
-Print and Comment - [Code](print_comment.java)
+Print and Comment - [Code](github.com/SameerRanjan090/Java/blob/main/print_comment.java)
