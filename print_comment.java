@@ -12,7 +12,9 @@ public class Main {
          */
 
         System.out.print("I like pizza!\n");
+        // \n-breaks line.
         System.out.println("It's really good!");
+        // println
         System.out.print("8uy me one");
     }
 }
